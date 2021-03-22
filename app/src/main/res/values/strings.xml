@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SimpleNotesRLL</string>
+    <string name="text_view">TextView</string>
+    <string name="DayOfWeek">День недели:</string>
+    <string name="head_note">Заголовок заметки</string>
+    <string name="description_note">Описание заметки</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="save_note">Сохранить заметку</string>
+    <string name="warning_fill_fields">Все поля должны быть заполнены</string>
+    <string name="todo">TODO</string>
+    <string-array name="days_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+
+    </string-array>
+</resources>
